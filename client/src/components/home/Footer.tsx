@@ -56,7 +56,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>
                 <Link
-                  href="https://github.com/masum184e/askiit"
+                  href="https://github.com/archmage-24/askiit"
                   className="flex items-center gap-2"
                 >
                   <Github size={16} /> GitHub
@@ -64,7 +64,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="mailto:masum1834e@gmail.com"
+                  href="mailto:vipcharis.so24@gmail.com"
                   className="flex items-center gap-2"
                 >
                   <Mail size={16} /> Email
