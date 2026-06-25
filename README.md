@@ -169,7 +169,7 @@ Please follow conventional commit messages and keep PRs focused.
 
 ## 👤 Author / Contact
 
-Developed by [Masum Billah](https://github.com/masum184e).
+Developed by [archamge-24](https://github.com/archmage-24).
 
 For issues or suggestions, please open an issue or contact via GitHub.
 
@@ -177,4 +177,4 @@ For issues or suggestions, please open an issue or contact via GitHub.
 
 <div style="text-align: center">⁂</div>
 
-[^1]: https://github.com/masum184e/askiit.
+[^1]: https://github.com/archmage-24/askiit.
